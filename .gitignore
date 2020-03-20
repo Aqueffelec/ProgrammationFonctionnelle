@@ -1,0 +1,11 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+main.pdf
+*.gz
+
+.vscode/*
+
+.gitignore
